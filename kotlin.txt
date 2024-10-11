@@ -1,2 +1,3 @@
 Usuario: Jorge77
-correo:jorgevinasco100@gmail.com
+correo:jorgevinasco_77@hotmail.com
+carrera: analisis de desarrollo de software
