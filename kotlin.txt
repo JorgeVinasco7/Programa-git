@@ -1,2 +1,2 @@
-usuario: Jorge_77
-correo: jorgevinasco100@gmail.com
+Usuario: Jorge_77
+correo:jorgevinasco100@gmail.com
